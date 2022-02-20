@@ -12,6 +12,7 @@ namespace ToDoList_MagdaSzafranska
             Helpers.Menu(tb1);                          // invoke a method of menu with the object parameter
             FileService.ReadTasks();                    // read all tasks saved previously in the file
 
+            
             #region Loop to feed by user
             do                                          // a do while loop: asks user to choose another number until he wants to exit (by choosing nr '6')
             {

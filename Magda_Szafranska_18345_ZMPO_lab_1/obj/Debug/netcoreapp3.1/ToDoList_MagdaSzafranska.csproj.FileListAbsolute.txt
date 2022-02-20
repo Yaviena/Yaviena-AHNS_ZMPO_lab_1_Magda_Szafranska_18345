@@ -25,3 +25,17 @@ C:\Users\Modify\Downloads\AHNS\OOP\LABORATORIA\Magda_Szafranska_183445_ZMPO_Lab_
 C:\Users\Modify\Downloads\AHNS\OOP\LABORATORIA\Magda_Szafranska_183445_ZMPO_Lab_1\Magda_Szafranska_18345_ZMPO_lab_1\obj\Debug\netcoreapp3.1\ToDoList_MagdaSzafranska.dll
 C:\Users\Modify\Downloads\AHNS\OOP\LABORATORIA\Magda_Szafranska_183445_ZMPO_Lab_1\Magda_Szafranska_18345_ZMPO_lab_1\obj\Debug\netcoreapp3.1\ToDoList_MagdaSzafranska.pdb
 C:\Users\Modify\Downloads\AHNS\OOP\LABORATORIA\Magda_Szafranska_183445_ZMPO_Lab_1\Magda_Szafranska_18345_ZMPO_lab_1\obj\Debug\netcoreapp3.1\ToDoList_MagdaSzafranska.genruntimeconfig.cache
+C:\Users\Modify\Downloads\AHNS\OOP\LABORATORIA\Lab 1\Magda_Szafranska_18345_ZMPO_lab_1\bin\Debug\netcoreapp3.1\ToDoList_MagdaSzafranska.exe
+C:\Users\Modify\Downloads\AHNS\OOP\LABORATORIA\Lab 1\Magda_Szafranska_18345_ZMPO_lab_1\bin\Debug\netcoreapp3.1\ToDoList_MagdaSzafranska.deps.json
+C:\Users\Modify\Downloads\AHNS\OOP\LABORATORIA\Lab 1\Magda_Szafranska_18345_ZMPO_lab_1\bin\Debug\netcoreapp3.1\ToDoList_MagdaSzafranska.runtimeconfig.json
+C:\Users\Modify\Downloads\AHNS\OOP\LABORATORIA\Lab 1\Magda_Szafranska_18345_ZMPO_lab_1\bin\Debug\netcoreapp3.1\ToDoList_MagdaSzafranska.runtimeconfig.dev.json
+C:\Users\Modify\Downloads\AHNS\OOP\LABORATORIA\Lab 1\Magda_Szafranska_18345_ZMPO_lab_1\bin\Debug\netcoreapp3.1\ToDoList_MagdaSzafranska.dll
+C:\Users\Modify\Downloads\AHNS\OOP\LABORATORIA\Lab 1\Magda_Szafranska_18345_ZMPO_lab_1\bin\Debug\netcoreapp3.1\ToDoList_MagdaSzafranska.pdb
+C:\Users\Modify\Downloads\AHNS\OOP\LABORATORIA\Lab 1\Magda_Szafranska_18345_ZMPO_lab_1\obj\Debug\netcoreapp3.1\ToDoList_MagdaSzafranska.csproj.AssemblyReference.cache
+C:\Users\Modify\Downloads\AHNS\OOP\LABORATORIA\Lab 1\Magda_Szafranska_18345_ZMPO_lab_1\obj\Debug\netcoreapp3.1\ToDoList_MagdaSzafranska.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Modify\Downloads\AHNS\OOP\LABORATORIA\Lab 1\Magda_Szafranska_18345_ZMPO_lab_1\obj\Debug\netcoreapp3.1\ToDoList_MagdaSzafranska.AssemblyInfoInputs.cache
+C:\Users\Modify\Downloads\AHNS\OOP\LABORATORIA\Lab 1\Magda_Szafranska_18345_ZMPO_lab_1\obj\Debug\netcoreapp3.1\ToDoList_MagdaSzafranska.AssemblyInfo.cs
+C:\Users\Modify\Downloads\AHNS\OOP\LABORATORIA\Lab 1\Magda_Szafranska_18345_ZMPO_lab_1\obj\Debug\netcoreapp3.1\ToDoList_MagdaSzafranska.csproj.CoreCompileInputs.cache
+C:\Users\Modify\Downloads\AHNS\OOP\LABORATORIA\Lab 1\Magda_Szafranska_18345_ZMPO_lab_1\obj\Debug\netcoreapp3.1\ToDoList_MagdaSzafranska.dll
+C:\Users\Modify\Downloads\AHNS\OOP\LABORATORIA\Lab 1\Magda_Szafranska_18345_ZMPO_lab_1\obj\Debug\netcoreapp3.1\ToDoList_MagdaSzafranska.pdb
+C:\Users\Modify\Downloads\AHNS\OOP\LABORATORIA\Lab 1\Magda_Szafranska_18345_ZMPO_lab_1\obj\Debug\netcoreapp3.1\ToDoList_MagdaSzafranska.genruntimeconfig.cache
