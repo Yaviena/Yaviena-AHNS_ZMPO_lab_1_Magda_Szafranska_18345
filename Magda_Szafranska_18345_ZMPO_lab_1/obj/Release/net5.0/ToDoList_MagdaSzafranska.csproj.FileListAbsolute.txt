@@ -1,0 +1,16 @@
+E:\PROGRAMMING\C#\PROGRAMS\ToDoList_MagdaSzafranska\bin\Release\net5.0\ToDoList_MagdaSzafranska.exe
+E:\PROGRAMMING\C#\PROGRAMS\ToDoList_MagdaSzafranska\bin\Release\net5.0\ToDoList_MagdaSzafranska.deps.json
+E:\PROGRAMMING\C#\PROGRAMS\ToDoList_MagdaSzafranska\bin\Release\net5.0\ToDoList_MagdaSzafranska.runtimeconfig.json
+E:\PROGRAMMING\C#\PROGRAMS\ToDoList_MagdaSzafranska\bin\Release\net5.0\ToDoList_MagdaSzafranska.runtimeconfig.dev.json
+E:\PROGRAMMING\C#\PROGRAMS\ToDoList_MagdaSzafranska\bin\Release\net5.0\ToDoList_MagdaSzafranska.dll
+E:\PROGRAMMING\C#\PROGRAMS\ToDoList_MagdaSzafranska\bin\Release\net5.0\ref\ToDoList_MagdaSzafranska.dll
+E:\PROGRAMMING\C#\PROGRAMS\ToDoList_MagdaSzafranska\bin\Release\net5.0\ToDoList_MagdaSzafranska.pdb
+E:\PROGRAMMING\C#\PROGRAMS\ToDoList_MagdaSzafranska\obj\Release\net5.0\ToDoList_MagdaSzafranska.csprojAssemblyReference.cache
+E:\PROGRAMMING\C#\PROGRAMS\ToDoList_MagdaSzafranska\obj\Release\net5.0\ToDoList_MagdaSzafranska.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMMING\C#\PROGRAMS\ToDoList_MagdaSzafranska\obj\Release\net5.0\ToDoList_MagdaSzafranska.AssemblyInfoInputs.cache
+E:\PROGRAMMING\C#\PROGRAMS\ToDoList_MagdaSzafranska\obj\Release\net5.0\ToDoList_MagdaSzafranska.AssemblyInfo.cs
+E:\PROGRAMMING\C#\PROGRAMS\ToDoList_MagdaSzafranska\obj\Release\net5.0\ToDoList_MagdaSzafranska.csproj.CoreCompileInputs.cache
+E:\PROGRAMMING\C#\PROGRAMS\ToDoList_MagdaSzafranska\obj\Release\net5.0\ToDoList_MagdaSzafranska.dll
+E:\PROGRAMMING\C#\PROGRAMS\ToDoList_MagdaSzafranska\obj\Release\net5.0\ref\ToDoList_MagdaSzafranska.dll
+E:\PROGRAMMING\C#\PROGRAMS\ToDoList_MagdaSzafranska\obj\Release\net5.0\ToDoList_MagdaSzafranska.pdb
+E:\PROGRAMMING\C#\PROGRAMS\ToDoList_MagdaSzafranska\obj\Release\net5.0\ToDoList_MagdaSzafranska.genruntimeconfig.cache
